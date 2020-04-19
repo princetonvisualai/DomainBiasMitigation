@@ -1,14 +1,14 @@
 # Effective Strategies for Bias Mitigation
-Code for the paper:
+Code for the CVPR paper:
 
-Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation
+[Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation](https://arxiv.org/abs/1911.11834v2)
 
-Zeyu Wang, Klint Qinami, Yannis Karakozis, Kyle Genova, Prem Nair, Kenji Hata, Olga Russakovsky
+Zeyu Wang, Klint Qinami, Ioannis Christos Karakozis, Kyle Genova, Prem Nair, Kenji Hata, Olga Russakovsky
 
 ```
 @misc{wang2019fairness,
     title={Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation},
-    author={Zeyu Wang and Klint Qinami and Yannis Karakozis and Kyle Genova and Prem Nair and Kenji Hata and Olga Russakovsky},
+    author={Zeyu Wang and Klint Qinami and Ioannis Christos Karakozis and Kyle Genova and Prem Nair and Kenji Hata and Olga Russakovsky},
     year={2019},
     eprint={1911.11834},
     archivePrefix={arXiv},
