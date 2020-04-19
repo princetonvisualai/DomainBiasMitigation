@@ -6,13 +6,11 @@ Code for the CVPR paper:
 Zeyu Wang, Klint Qinami, Ioannis Christos Karakozis, Kyle Genova, Prem Nair, Kenji Hata, Olga Russakovsky
 
 ```
-@misc{wang2019fairness,
-    title={Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation},
-    author={Zeyu Wang and Klint Qinami and Ioannis Christos Karakozis and Kyle Genova and Prem Nair and Kenji Hata and Olga Russakovsky},
-    year={2019},
-    eprint={1911.11834},
-    archivePrefix={arXiv},
-    primaryClass={cs.CV}
+@inproceedings{wang2020fair,
+author = {Zeyu Wang and Klint Qinami and Ioannis Karakozis and Kyle Genova and Prem Nair and Kenji Hata and Olga Russakovsky},
+title = {Towards Fairness in Visual Recognition: Effective Strategies for Bias Mitigation},
+booktitle = {IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+year = {2020}
 }
 ```
 
